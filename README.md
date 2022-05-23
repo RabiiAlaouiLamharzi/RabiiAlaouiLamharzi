@@ -1,5 +1,5 @@
 <div id="badges" align="center">
-  <img width="300" alt="thefinal" src="https://user-images.githubusercontent.com/103124512/169919086-b5a9ac19-c002-41dc-a88a-a23f017ea263.png">
+  <img width="250" alt="thefinal" src="https://user-images.githubusercontent.com/103124512/169919086-b5a9ac19-c002-41dc-a88a-a23f017ea263.png">
   <br><a href="https://www.linkedin.com/in/rabii-alaoui-754460200/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
