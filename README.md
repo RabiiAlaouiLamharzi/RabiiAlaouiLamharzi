@@ -20,7 +20,7 @@ I am a Software Engineer from Rabat - Morocco 🇲🇦.
 - 📚 I’m currently pusuing a computer science BSc. degree at Al Akhawayyn University
 - 🌱 I’m currently learning React.js and exploring Back-End Developpement.
 - 📫 How to reach me: r.lamharzialaoui@aui.ma
-- 😄 Personal Website: https://rabiialaouilamharzi.github.io/PersonalWebsite/#Footer
+- 😄 Personal Website: https://rabiialaouilamharzi.github.io/PersonalWebsite/
 - ⚡ In my spare time, I work as a freelance video editor. 
 
 ---
