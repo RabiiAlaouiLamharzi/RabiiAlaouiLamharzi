@@ -17,14 +17,14 @@
 
 I am a Software Engineer from Rabat - Morocco 🇲🇦.
 
-- 📚 I’m currently pursuing a computer science BSc. degree at Al Akhawayyn University
-- 🌱 I’m currently learning React.js and exploring Back-End Developpement.
+- 📚 I recently graduated with a BSc. degree in Computer Science from Al Akhawayn University.
+- 🌱 I’m currently learning Next.js and exploring DevOps.
 - 📫 How to reach me: r.lamharzialaoui@aui.ma
-- 😄 Personal Website: https://rabiialaoui.netlify.app/
+- 😄 Personal Website: [https://rabiialaoui.netlify.app/](https://rabiialaoui.vercel.app/)
 - ⚡ In my spare time, I work as a freelance video editor. 
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Some of the Languages and Tools I Use :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
