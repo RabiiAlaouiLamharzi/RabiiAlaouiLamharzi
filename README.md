@@ -20,7 +20,7 @@ I am a Software Engineer from Rabat - Morocco 🇲🇦.
 - 📚 I recently graduated with a BSc. degree in Computer Science from Al Akhawayn University.
 - 🌱 I’m currently learning Next.js and exploring DevOps.
 - 📫 How to reach me: r.lamharzialaoui@aui.ma
-- 😄 Personal Website: [https://rabiialaoui.netlify.app/](https://rabiialaoui.vercel.app/)
+- 😄 Personal Website: https://rabiialaoui.vercel.app/
 - ⚡ In my spare time, I work as a freelance video editor. 
 
 ---
